@@ -1,4 +1,4 @@
-package com.example.simonfx;
+package personal.proj.simonfx;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

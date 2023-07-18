@@ -1,4 +1,4 @@
-package com.example.simonfx;
+package personal.proj.simonfx;
 
 import javafx.scene.control.Button;
 
